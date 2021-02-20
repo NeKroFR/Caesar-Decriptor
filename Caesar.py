@@ -2,10 +2,10 @@ import string
 
 alphabet = string.ascii_lowercase
 
-
 text_base= input("Enter your  text here:")
+key = int(input('enter key: '))
 encrypted_message = ""
-letter =
+letter = ""
 
 for i in text_base:
 
